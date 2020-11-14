@@ -56,8 +56,7 @@
              </blockquote>
              <blockquote>
                 como nacio
-
-            </blockquote cite="https://www.youtube.com/channel/UCL0ZN_VymkFTDpw5o-Ap2sw" >
+             </blockquote>
             
          </aside>
          <footer class="pie">
